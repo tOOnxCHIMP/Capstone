@@ -1,0 +1,18 @@
+You will write a paper with an in-depth description and analysis of one
+or more technical aspects of your topic. You will also describe current progress on
+your knowledge demonstration project.
+
+
+
+
+Identify the technical aspect(s) of your topic, explain the relevance to your
+topic, and provide an in-depth description and analysis of the technical
+component along with issues and open research questions. Think in terms of
+algorithms, architecture, system design, etc. For example
+
+Intro: Event Enterprise Analysis
+technical aspect: inference graph and Belief Propagation
+Knowledge demonstration project
+relevance to topic
+in-depth description and analysis
+issues/open research questions 
